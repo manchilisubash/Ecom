@@ -1,0 +1,46 @@
+nav {
+    display: flex;
+    padding-top: 15px;
+}
+
+nav h1 {
+    color: blueviolet;
+    margin-top: 0%;
+}
+
+.navsearch {
+    text-align: center;
+    margin-top: 8px;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 10px;
+}
+
+input {
+    border-color: blueviolet;
+    border-right: none;
+}
+
+button {
+    color: blueviolet;
+}
+
+ul {
+    margin-top: 0%;
+    width: 60%;
+    height: 60%;
+    display: flex;
+    list-style: none;
+}
+
+ul li {
+    padding: 10px;
+}
+
+li a {
+    text-decoration-line: none;
+}
+h1 a{
+    color: blueviolet;
+    text-decoration: none;
+}

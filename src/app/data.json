@@ -1,0 +1,81 @@
+{
+  "seller": [
+    {
+      "id": "fd85",
+      "name": "mahesh",
+      "email": "mahesh@gmail.com",
+      "password": "subash123"
+    },
+    {
+      "id": "b80a",
+      "name": "micheal",
+      "email": "mich@123",
+      "password": "miky@431"
+    },
+    {
+      "id": "f0ba",
+      "name": "Manchili Subash",
+      "email": "subash@gmail.com",
+      "password": "craymonk"
+    },
+    {
+      "id": "da94",
+      "name": "Manchili Subash",
+      "email": "manchili.subash@gmail.com",
+      "password": "granchh"
+    },
+    {
+      "id": "451f",
+      "name": "Jhon",
+      "email": "michel@gmail",
+      "password": "123@tcjho"
+    }
+  ],
+  "products": [
+    {
+      "name": "Iphone 15",
+      "price": "57999",
+      "category": "mobile",
+      "color": "white",
+      "description": "ios mobile",
+      "image": "https://www.runbazaar.com/_next/image/?url=https%3A%2F%2Fapi.runbazaar.com%2Fmedia%2F__sized__%2Fproduct_img%2F2023%2F03%2F21%2FRBI3CXGm%2F61l9ppRIiqL._AC_SX679_-smart_crop-c0-5__0-5-750x750-70.jpg&w=1920&q=75",
+      "id": "c9f6"
+    },
+    {
+      "id": "6c2e",
+      "name": "pocof1",
+      "price": "18999",
+      "category": "mobile",
+      "color": "black",
+      "description": "android mobile",
+      "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1662444226/Croma%20Assets/Communication/Mobiles/Images/250888_i8vjr0.png?tr=w-600"
+    },
+    {
+      "id": "08e6",
+      "name": "formal shoes",
+      "price": "1499",
+      "category": "shoes",
+      "color": "black",
+      "description": "office wear shoes",
+      "image": "https://m.media-amazon.com/images/I/51bWGrqdeML._AC_UY1000_.jpg"
+    },
+    {
+      "id": "0c2b",
+      "name": "Noise watch",
+      "price": "1400",
+      "category": "watch",
+      "color": "black",
+      "description": "wrist watch",
+      "image": "https://www.gonoise.com/cdn/shop/files/Javelin-Carousel-4-min.png?v=1719905000"
+    },
+    {
+      "id": "f276",
+      "name": "Hp Laptop",
+      "price": "38999",
+      "category": "Laptop",
+      "color": "olive green",
+      "description": "Windows Laptop",
+      "image": "https://images-cdn.ubuy.co.in/64ccb2559d908f42222b598a-hp-pavilion-13-3-fhd-intel-core-i3.jpg"
+    }
+  ]
+}
