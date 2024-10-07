@@ -8,6 +8,7 @@ import { BehaviorSubject } from 'rxjs';
   providedIn: 'root'
 })
 export class SellerService {
+  //npm for global installed nodemodules, npx for locally installed node modules in project
 isSelllerLoggedIn =new BehaviorSubject<boolean>(false)
 nouserfound =new EventEmitter<boolean>(false)
   constructor(private http:HttpClient, private route:Router) { }

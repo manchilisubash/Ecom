@@ -2,7 +2,7 @@
   <div class="carousel-inner">
     <div class="carousel-item " [class.active]="isFirst"
       *ngFor="let product of popularProducts;index as i;first as isFirst;last as isLast; even as isEven; odd as isOdd">
-      <img class="d-block w-50" src="{{product.image}}" alt="First slide">
+      <a routerLink="/details/{{product.id}}" ><img class="d-block w-50" src="{{product.image}}" alt="First slide"></a>
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -32,7 +32,7 @@
           </div>
         </div>
         <div class="product-footer">
-          <a href="">view details</a>
+          <a routerLink="/details/{{item.id}}">view details</a>
           <a href="">add to cart</a>
         </div>
       </div>

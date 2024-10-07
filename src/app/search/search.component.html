@@ -1,0 +1,12 @@
+<div class="row search-item" *ngFor="let item of productResults">
+    <div class="col-sm-3">
+       <a routerLink="/details/{{item.id}}"><img src="{{item.image}}" alt=""></a> 
+    </div>
+    <div class="col-sm-8 details">
+        <a routerLink="/details/{{item.id}}"><h6>{{item.name}}</h6></a>
+        <p><b>price:{{item.price}}</b></p>
+        <p><span>color:{{item.color}}</span><span>category:{{item.category}}</span></p>
+        <p>{{item.description}}</p>
+    </div>
+</div>
+<div *ngIf="error">please enter a valid product name</div>

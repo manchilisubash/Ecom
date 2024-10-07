@@ -29,6 +29,12 @@
       "name": "Jhon",
       "email": "michel@gmail",
       "password": "123@tcjho"
+    },
+    {
+      "name": "Manchili Subash",
+      "email": "Subash@oct.com",
+      "password": "subash123",
+      "id": "8xU0tda"
     }
   ],
   "products": [
@@ -76,6 +82,215 @@
       "color": "olive green",
       "description": "Windows Laptop",
       "image": "https://images-cdn.ubuy.co.in/64ccb2559d908f42222b598a-hp-pavilion-13-3-fhd-intel-core-i3.jpg"
+    },
+    {
+      "name": "pocof1",
+      "price": "17999",
+      "category": "mobile",
+      "color": "white",
+      "description": "android mobile",
+      "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1662444226/Croma%20Assets/Communication/Mobiles/Images/250888_i8vjr0.png?tr=w-600",
+      "id": "50bc"
+    },
+    {
+      "id": "7d73",
+      "name": "pocof1",
+      "price": "20999",
+      "category": "mobile",
+      "color": "blue",
+      "description": "android mobile",
+      "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1662444226/Croma%20Assets/Communication/Mobiles/Images/250888_i8vjr0.png?tr=w-600"
+    },
+    {
+      "id": "e00e",
+      "name": "pocof1",
+      "price": "21999",
+      "category": "mobile",
+      "color": "red",
+      "description": "android mobile",
+      "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1662444226/Croma%20Assets/Communication/Mobiles/Images/250888_i8vjr0.png?tr=w-600"
+    },
+    {
+      "id": "d50b",
+      "name": "pocof1",
+      "price": "18999",
+      "category": "mobile",
+      "color": "orange",
+      "description": "android mobile",
+      "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1662444226/Croma%20Assets/Communication/Mobiles/Images/250888_i8vjr0.png?tr=w-600"
+    },
+    {
+      "id": "21e7",
+      "name": "pocof1",
+      "price": "16999",
+      "category": "mobile",
+      "color": "yellow",
+      "description": "android mobile",
+      "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1662444226/Croma%20Assets/Communication/Mobiles/Images/250888_i8vjr0.png?tr=w-600"
+    }
+  ],
+  "users": [
+    {
+      "id": "8514",
+      "name": "manchili subash",
+      "email": "manchili.subash@gmail.com",
+      "password": "subash123"
+    },
+    {
+      "id": "9e42",
+      "name": "subash",
+      "email": "subash@test.com",
+      "password": "subash@431"
+    },
+    {
+      "id": "2b2a",
+      "name": "ganesh",
+      "email": "ganesh@chennai.com",
+      "password": "gani123"
+    },
+    {
+      "id": "62e4",
+      "name": "satish",
+      "email": "satish@test.com",
+      "password": "satti123"
+    },
+    {
+      "id": "c44c",
+      "name": "pavan",
+      "email": "pavan@test.com",
+      "password": "buri123"
+    },
+    {
+      "id": "ce62",
+      "name": "rajesh",
+      "email": "rajesh@user.com",
+      "password": "rajesh123"
+    },
+    {
+      "id": "8036",
+      "name": "sunit",
+      "email": "sunit@test.com",
+      "password": "pireat123"
+    },
+    {
+      "id": "2d1e",
+      "name": "subramanyam",
+      "email": "santosh@test.com",
+      "password": "test123"
+    },
+    {
+      "id": "655c",
+      "name": "santosh",
+      "email": "santi@test.com",
+      "password": "santi421"
+    },
+    {
+      "id": "a2f1",
+      "name": "sainadh",
+      "email": "sainadh@testc.com",
+      "password": "sairam@123"
+    },
+    {
+      "id": "5841",
+      "name": "canu",
+      "email": "canu@test.com",
+      "password": "subash@12354"
+    },
+    {
+      "id": "6b58",
+      "name": "manchili",
+      "email": "manchili@test.com",
+      "password": "manchili@146"
+    },
+    {
+      "id": "eb70",
+      "name": "franky",
+      "email": "Franky@test.com",
+      "password": "franky@123"
+    },
+    {
+      "id": "144e",
+      "name": "luffy",
+      "email": "luffy@test.com",
+      "password": "luffy@800"
+    },
+    {
+      "id": "05a2",
+      "name": "zoro",
+      "email": "zoro@user.com",
+      "password": "zoro123"
+    },
+    {
+      "id": "35c8",
+      "name": "robin",
+      "email": "robin@user.com",
+      "password": "robin123"
+    },
+    {
+      "id": "561a",
+      "name": "ussop",
+      "email": "ussop@test.com",
+      "password": "ussop123"
+    },
+    {
+      "name": "ben stokes",
+      "email": "stokes@gmail.com",
+      "password": "stokes123",
+      "id": "o35YzF8"
+    }
+  ],
+  "cart": [
+    {
+      "name": "Iphone 15",
+      "price": "57999",
+      "category": "mobile",
+      "color": "white",
+      "description": "ios mobile",
+      "image": "https://www.runbazaar.com/_next/image/?url=https%3A%2F%2Fapi.runbazaar.com%2Fmedia%2F__sized__%2Fproduct_img%2F2023%2F03%2F21%2FRBI3CXGm%2F61l9ppRIiqL._AC_SX679_-smart_crop-c0-5__0-5-750x750-70.jpg&w=1920&q=75",
+      "qauntity": 1,
+      "productId": "c9f6",
+      "userId": "o35YzF8",
+      "id": 1
+    },
+    {
+      "name": "pocof1",
+      "price": "18999",
+      "category": "mobile",
+      "color": "black",
+      "description": "android mobile",
+      "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1662444226/Croma%20Assets/Communication/Mobiles/Images/250888_i8vjr0.png?tr=w-600",
+      "qauntity": 1,
+      "productId": "6c2e",
+      "userId": "o35YzF8",
+      "id": 2
+    }
+  ],
+  "orders": [
+    {
+      "id": "5a01",
+      "email": "subash@gmail.com",
+      "address": "gajapathinagaram",
+      "contact": "8897949077",
+      "totalprice": 117597,
+      "userId": {
+        "id": "c44c",
+        "name": "pavan",
+        "email": "pavan@test.com",
+        "password": "buri123"
+      }
+    },
+    {
+      "id": "7d38",
+      "email": "manchili.subash@gmail.com",
+      "address": "gajapathinagaram",
+      "contact": "8897949077",
+      "totalprice": 117597,
+      "userId": {
+        "id": "c44c",
+        "name": "pavan",
+        "email": "pavan@test.com",
+        "password": "buri123"
+      }
     }
   ]
 }

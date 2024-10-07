@@ -39,8 +39,27 @@ ul li {
 
 li a {
     text-decoration-line: none;
+    cursor: pointer;
+}
+a{
+    color: blueviolet;
 }
 h1 a{
     color: blueviolet;
     text-decoration: none;
+}
+.suggested-search{
+    top: 40px;
+    z-index: 10; 
+    display: list-item !important;
+    background-color: #fff;
+    width: 200px;
+}
+.suggested-search li{
+    padding: 5px;
+    border:1px solid #ddd;
+}
+.suggested-search li a{
+    cursor: pointer;
+    color:blueviolet
 }

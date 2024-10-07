@@ -20,7 +20,7 @@ this.product.popularProducts().subscribe((data)=>{
   this.popularProducts=data
 })
 this.product.trendyProduts().subscribe((data)=>{this.trendyProducts=data})
-this.product.searchProducts("watch").subscribe((data)=>{console.log(data)})
+// this.product.searchProducts("watch").subscribe((data)=>{console.log(data)})
 }
 
 }
